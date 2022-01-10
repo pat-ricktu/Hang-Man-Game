@@ -1,4 +1,3 @@
-#!/bin/python3
 #Name: Patrick Tu
 #Purpose: To create a hangman game using python.
 
